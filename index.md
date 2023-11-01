@@ -2,6 +2,7 @@
 layout: home
 header:
   title: We are PRISM AI
+  background_style: bg-dark
   text: >
     We are applying psychology and neurosciences to Large Language Models to audit them and make them safer.
   action: # action button is optional
